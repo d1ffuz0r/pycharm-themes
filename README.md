@@ -4,8 +4,8 @@ pycharm-themes
 TextMate themes for PyCharm
 ---------------------------
 
-Installation
-============
+Installation for Mac OS X
+=========================
 
 ```
 $ git clone git://github.com/d1ffuz0r/pycharm-themes.git
