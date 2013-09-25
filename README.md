@@ -2,7 +2,8 @@ TextMate themes for PyCharm
 ===========================
 
 Current version: 3
-Older version check at [Releases](https://github.com/d1ffuz0r/pycharm-themes/releases) page
+
+Themes for older versions check at [Releases](https://github.com/d1ffuz0r/pycharm-themes/releases) page
 
 Themes list
 -----------
