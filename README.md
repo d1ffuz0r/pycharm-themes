@@ -22,7 +22,7 @@ Themes list
 * SpaceCadet
 * Sunburst
 * Zenburnesque
-* django
+* Django
 * iPlastic
 
 Installation for Mac OS X
@@ -31,5 +31,5 @@ Installation for Mac OS X
 ```
 $ git clone git://github.com/d1ffuz0r/pycharm-themes.git
 $ cd pycharm-themes/colors
-$ cp *.xml ~/Library/Preferences/PyCharm20/colors
+$ cp *.icls ~/Library/Preferences/PyCharm30/colors
 ```
