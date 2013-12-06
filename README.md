@@ -37,3 +37,12 @@ $ git clone git://github.com/d1ffuz0r/pycharm-themes.git
 $ cd pycharm-themes/colors
 $ cp *.icls ~/Library/Preferences/PyCharm30/colors
 ```
+
+Installation for Linux
+----------------------
+
+```
+
+$ git clone git://github.com/d1ffuz0r/pycharm-themes.git
+$ cd pycharm-themes/colors
+$ cp *.icls ~/.PyCharm30/config/colors/
