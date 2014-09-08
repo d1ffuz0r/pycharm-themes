@@ -46,3 +46,6 @@ Installation for Linux
 $ git clone git://github.com/d1ffuz0r/pycharm-themes.git
 $ cd pycharm-themes/colors
 $ cp *.icls ~/.PyCharm30/config/colors/
+```
+
+If your PyCharm is running, close and open it again to load the new themes.
