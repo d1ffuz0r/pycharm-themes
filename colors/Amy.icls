@@ -6,6 +6,7 @@
     <option name="CARET_COLOR" value="7070ff" />
     <option name="CARET_ROW_COLOR" value="380018" />
     <option name="CONSOLE_BACKGROUND_KEY" value="200020" />
+    <option name="GUTTER_BACKGROUND" value="200020" />
     <option name="INDENT_GUIDE" value="bfbfbf" />
     <option name="SELECTION_BACKGROUND" value="500010" />
     <option name="WHITESPACES" value="bfbfbf" />

@@ -9,6 +9,8 @@
     <option name="INDENT_GUIDE" value="a8a8a8" />
     <option name="SELECTION_BACKGROUND" value="a0a0c0" />
     <option name="WHITESPACES" value="a8a8a8" />
+    <option name="LINE_NUMBERS_COLOR" value="a0a0c0" />
+    <option name="GUTTER_BACKGROUND" value="404040" />
   </colors>
   <attributes>
     <option name="BAD_CHARACTER">
@@ -607,12 +609,6 @@
     <option name="REGEXP.BAD_CHARACTER">
       <value />
     </option>
-    <option name="REGEXP.BRACES">
-      <value />
-    </option>
-    <option name="REGEXP.BRACKETS">
-      <value />
-    </option>
     <option name="REGEXP.CHAR_CLASS">
       <value />
     </option>
@@ -632,9 +628,6 @@
       <value />
     </option>
     <option name="REGEXP.META">
-      <value />
-    </option>
-    <option name="REGEXP.PARENTHS">
       <value />
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">

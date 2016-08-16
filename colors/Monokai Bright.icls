@@ -6,7 +6,9 @@
     <option name="CARET_COLOR" value="f8f8f0" />
     <option name="CARET_ROW_COLOR" value="3e3d32" />
     <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="GUTTER_BACKGROUND" value="272822" />
     <option name="INDENT_GUIDE" value="3b3a32" />
+    <option name="LINE_NUMBERS_COLOR" value="9d550f" />
     <option name="SELECTION_BACKGROUND" value="9d550f" />
     <option name="WHITESPACES" value="3b3a32" />
   </colors>
@@ -740,12 +742,6 @@
         <option name="BACKGROUND" value="f92672" />
       </value>
     </option>
-    <option name="REGEXP.BRACES">
-      <value />
-    </option>
-    <option name="REGEXP.BRACKETS">
-      <value />
-    </option>
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="ae81ff" />
@@ -774,9 +770,6 @@
       <value>
         <option name="FOREGROUND" value="f92672" />
       </value>
-    </option>
-    <option name="REGEXP.PARENTHS">
-      <value />
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
       <value>

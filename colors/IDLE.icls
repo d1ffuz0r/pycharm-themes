@@ -570,12 +570,6 @@
         <option name="BACKGROUND" value="990000" />
       </value>
     </option>
-    <option name="REGEXP.BRACES">
-      <value />
-    </option>
-    <option name="REGEXP.BRACKETS">
-      <value />
-    </option>
     <option name="REGEXP.CHAR_CLASS">
       <value />
     </option>
@@ -600,9 +594,6 @@
       <value>
         <option name="FOREGROUND" value="ff5600" />
       </value>
-    </option>
-    <option name="REGEXP.PARENTHS">
-      <value />
     </option>
     <option name="REGEXP.QUOTE_CHARACTER">
       <value />
