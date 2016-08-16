@@ -1,7 +1,7 @@
 TextMate themes for PyCharm
 ===========================
 
-Current PyCharm version: 3
+Current PyCharm version: 2016.2
 
 Themes for older versions check at [Releases](https://github.com/d1ffuz0r/pycharm-themes/releases) page
 
@@ -35,17 +35,16 @@ Installation for Mac OS X
 ```
 $ git clone git://github.com/d1ffuz0r/pycharm-themes.git
 $ cd pycharm-themes/colors
-$ cp *.icls ~/Library/Preferences/PyCharm30/colors
+$ cp *.icls ~/Library/Preferences/PyCharm2016.2/colors
 ```
 
 Installation for Linux
 ----------------------
 
 ```
-
 $ git clone git://github.com/d1ffuz0r/pycharm-themes.git
 $ cd pycharm-themes/colors
-$ cp *.icls ~/.PyCharm30/config/colors/
+$ cp *.icls ~/.PyCharm2016.2/config/colors/
 ```
 
-If your PyCharm is running, close and open it again to load the new themes.
+To see new themes restart PyCharm
